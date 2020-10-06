@@ -4,7 +4,7 @@ subtitle: software developer
 email: andrew.haberlandt@gmail.com
 description: A great software developer
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: https://ndrewh.github.io/forty-jekyll-theme # the base hostname & protocol for your site
+url: https://ndrewh.github.io/ # the base hostname & protocol for your site
 author: Andrew Haberlandt
 street_address: 1234 Somewhere Road
 city: Nashville
