@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Projects
 description: My projects
 image: assets/images/pic11.jpg
